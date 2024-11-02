@@ -8,6 +8,7 @@
 - Shadcn
 - React Hot Toast
 - Framer Motion
+- Supabase
 
 ### Predefined Tailwind Theme
 
@@ -30,3 +31,10 @@
    `git remote add origin https://github.com/username/new-repo.git`
 5. Push to New Repo
    `git push -u origin main`
+
+### Enviroment Variables
+
+Supabase:
+
+`NEXT_PUBLIC_SUPABASE_ANON_KEY=SUPABASEKEY`
+`NEXT_PUBLIC_SUPABASE_URL=https://sample.supabase.co`
